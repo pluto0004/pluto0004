@@ -1,23 +1,26 @@
-### Hi there 👋
+### Hi there! I'm Miho 👋
 
-<!--
-**pluto0004/pluto0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+package main
 
-Here are some ideas to get you started:
+import "fmt"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+  name := "Miho"
+  title := "software engineer"
+  location := "Tokyo"
+  interests := []string{"Scuba Diving 🐬", "Taking photos 📷"}
+  
+  fmt.Printf("Hello! I am %s and a %s based in %s! I love %s and %s", name, title, location, interests[0], interests[1] )
+}
+
+// Hello! I am Miho and a software engineer based in Tokyo! I love Scuba Diving 🐬 and Taking photos 📷.
+
+```
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluto0004&hide=stars,contribs,prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluto0004&hide=stars,contribs&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto0004&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
