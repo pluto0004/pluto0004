@@ -9,12 +9,12 @@ func main() {
   name := "Miho"
   title := "software engineer"
   location := "Tokyo"
-  interests := []string{"Scuba Diving 🐬", "Taking photos 📷"}
+  interests := []string{"scuba diving 🐬", "taking photos 📷"}
   
   fmt.Printf("Hello! I am %s and a %s based in %s! I love %s and %s", name, title, location, interests[0], interests[1] )
 }
 
-// Hello! I am Miho and a software engineer based in Tokyo! I love Scuba Diving 🐬 and Taking photos 📷.
+// Hello! I am Miho and a software engineer based in Tokyo! I love scuba diving 🐬 and taking photos 📷.
 
 ```
 
