@@ -22,7 +22,7 @@ func main() {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluto0004&hide=stars,contribs&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto0004&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto0004&theme=react&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
