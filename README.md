@@ -1,27 +1,3 @@
-### Hi there! I'm Miho 👋
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-  name := "Miho"
-  title := "software engineer"
-  location := "Tokyo"
-  interests := []string{"scuba diving 🐬", "taking photos 📷"}
-  
-  fmt.Printf("Hello! I am %s and a %s based in %s! I love %s and %s", name, title, location, interests[0], interests[1] )
-}
-
-// Hello! I am Miho and a software engineer based in Tokyo! I love scuba diving 🐬 and taking photos 📷.
-
-```
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluto0004&hide=stars,contribs&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto0004&theme=react&layout=compact&langs_count=4&hide=css,html,handlebars)](https://github.com/anuraghazra/github-readme-stats)
 
 
