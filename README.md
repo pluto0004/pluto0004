@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluto0004&theme=react&layout=compact&langs_count=4&hide=css,html,handlebars)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="left">Connect with me:</h3>
